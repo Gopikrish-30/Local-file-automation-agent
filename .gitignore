@@ -18,6 +18,8 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
+.history/
+
 # Test
 coverage/
 htmlcov/
